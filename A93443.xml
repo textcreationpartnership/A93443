@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The snare discovered: wherein severall objections against the Nationall Covenant, and the obligation thereof, are calmely argued, in the way of a familiar discourse between a covenanter and an interpendent.</title>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93443</idno><idno type="EEBO-CITATION">99865027</idno>
+  <idno type="VID">117260</idno>
+  <idno type="EEBO-PROQUEST">2240924216</idno>
+  
+            <idno type="STC">Wing S4387</idno>
+            <idno type="STC">Thomason E555_36</idno>
+            <idno type="STC">ESTC R205734</idno>
+            <idno type="PROQUEST">99865027</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865027e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117260)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E555[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The snare discovered: wherein severall objections against the Nationall Covenant, and the obligation thereof, are calmely argued, in the way of a familiar discourse between a covenanter and an interpendent.</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.R. and E.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117260:1"/>
+            <p>THE SNARE Discovered: Wherein severall OBJECTIONS against the <hi>Nationall Covenant,</hi> and the ob<g ref="char:EOLhyphen"/>ligation thereof, are calmely argued, in the way of a familiar di<g ref="char:EOLhyphen"/>scourse between a COVENANTER And an INTERPENDENT.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 20.25.</hi>
+               </bibl>
+               <p>It is a Snare to the man who devoureth that which is holy: and after vowes, to make enquiry.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. R.</hi> and <hi>E. M.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:117260:2"/>
+            <pb n="3" facs="tcp:117260:2"/>
+            <head>The <hi>Snare</hi> discovered, in a Dialogue between a <hi>Covenanter</hi> and an <hi>Interpendent.</hi>
+            </head>
+            <sp>
+               <speaker>
+                  <seg rend="decorInit">C</seg>Ovenanter.</speaker>
+               <p>
+                  <hi>Well met good Sir, I should be glad to renew our former familiarity.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Interpendent.</speaker>
+               <p>Your motion is very wel<g ref="char:EOLhyphen"/>come to me: for I would by no means that Christians should be strangers.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>This strangenesse hath been a fault on all hands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>Me thinks Sir, you look as if all were not well with you, may I know what it is that troubles you?</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>Since you desire it, I shall open my selfe to you; and the rather, because you are not ingaged in the Covenant. I met yesterday with a Treatise for the proving, that the Nationall Covenant (which I took long since) is unlawfull to be kept, and it runs in my mind still.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>The Covenant is made by many amongst us (what some of the Papists stile the Scripture,) a nose of wax; But I pray, wherein doth your Author expresse the unlawfulnes of it?</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>remember he saith in one place, that the Covenant was unlawfully taken, and therefore not to be kept.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>In what sense doth he hold tha<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Covenant was un<g ref="char:EOLhyphen"/>lawfully taken? in regard of the matter of the Covenant, or in regard of the manner of entring into it? there is a great deale of difference betwixt these two.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>In respect both of the matter and of the manner, he argues the unlawfulnesse of the Covenant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>Thus farre I must needs hold with him: that if any particular in the Covenant can be proved to be absolutely un<g ref="char:EOLhyphen"/>lawfull to be done, then the Covenanters Oath binds him not to keep the Covenant in that particular, though the Covenant is still obliging in regard of those things in it, which may law<g ref="char:EOLhyphen"/>fully be done. And I conceive, in case any particular of the Co<g ref="char:EOLhyphen"/>venant should clearly appear unlawfull to be performed: then
+<pb n="4" facs="tcp:117260:3"/>the same Authority which tendred the Covenant, might do well to enjoyne a publike humiliation for it.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>shall therefore insist upon particulars, as they come to my minde; one maine thing objected against as unlawfull, is that clause for extirpation of Heresie and Schisme. He sayes in that passage, the Covenanter vowed to do this, howsoever not so exprest in words, that he would persecute the godly, and not suffer them peaceably to worship the Lord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>This is very strange that any one should say, that the Covenanter vowed to do otherwise then is exprest in the words of the Covenant, and no lesse reasonable is it, to call the extirpation of sinne by the odious name of persecution; nor is it suitable to the current of Scripture, to make the godly the subject of Heresie; neither is there any colour for saying, that to extirpate Heresie and Shisme is to hinder the godly from worshipping the Lord peaceably; for Heresie is so far from be<g ref="char:EOLhyphen"/>ing a friend to the worship of God, that it is an enemie, and Schisme is so farre from advancing peaceablenesse, that it breeds and feeds contention.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>Though</hi> I <hi>know not how to contradict what you have said: yet it will not be satisfactory to me unlesse</hi> I <hi>can finde a Scripture-bottome. If any text of Scripture comes to your mind that might esta<g ref="char:EOLhyphen"/>blish what you have said, you might do well to mention it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>You do well to require Scripture, for that is the su<g ref="char:EOLhyphen"/>preme Iudge of Controversies; and I doubt not, but if my me<g ref="char:EOLhyphen"/>mory would serve, I might give you as ample satisfaction as you desire. That the Covenanter ingages no farther then the words of the Covenant extend: I remember I read lately a text in <hi>Jer.</hi> 34.18. which is very full for the confirming of it, and for the other particulars; if you please to walke to yonder Seat, we will sit down and consider further of them.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>would faine have that clamour well scanned; that the ex<g ref="char:EOLhyphen"/>tirpation of Heresie and Schisme is persecution.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>I suppose there is not much difficulty in that, for per<g ref="char:EOLhyphen"/>secution in the constant language of the Holy Ghost, signi<g ref="char:EOLhyphen"/>fies an opposing of good, not an opposing of evill: as where the Apostle tels us, that <hi>he which is borne after the flesh, per<g ref="char:EOLhyphen"/>secutes him that is borne after the spirit</hi> and you know our Sa<g ref="char:EOLhyphen"/>viour warrants the rooting out of those plants which are not
+<pb n="5" facs="tcp:117260:3"/>of Gods planting, and that Heresie and Schisme are plants that are not of Gods planting, is very clear in the Scripture. And as I re<g ref="char:EOLhyphen"/>member, Master <hi>Burroughs</hi> in his Treatise of heart-divisions, urges to this Purpose a Gospel-Prophecy in <hi>Zech.</hi> 13. and in that Scrip<g ref="char:EOLhyphen"/>ture it is worth observing, that not only false doctrines of the Hea<g ref="char:EOLhyphen"/>thens are to be supprest, but also the erroneous doctrines of those which professe the true God; for it is said there, <hi>thou shalt not live, for thou speakest lies in the name of the Lord;</hi> not in the name of false gods, but in the name of the true God.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>I would gladly see somewhat in the New Testament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>I have the book here, and therefore if you please we will turne to some texts in it; and first I shall shew you that Heresie is a work of the flesh, and that the suppression of that, is so farre from being a persecution of the godly, that it doth not at all touch the godly; for Heresie and Godlinesse cannot dwell together, this you shall see, <hi>Gal.</hi> 5.19, 20, 21. <hi>Now, the works of the flesh are manifest, which are these, adultery, fornication, uncleannesse, lasciviousnesse, ido<g ref="char:EOLhyphen"/>latry, witcherast, hatred, variance, emulations, wrath, strife, seditions, heresies, envyings, murthers, drunkennesse, revellings, and suchlike, of the which</hi> I <hi>tell you before, as</hi> I <hi>have often told you in times past, that they which do such things shall not inherit the Kingdome of God;</hi> here ob<g ref="char:EOLhyphen"/>serve, the Apostle sayes expresly, <hi>Heresie is a work of the flesh, and those which do such things shall not inherit the Kingdome of God;</hi> there<g ref="char:EOLhyphen"/>fore Heresie is not in any of the godly: for it is certaine that all the godly shall inherit the Kingdome of God, and mark further what the Apostle sayes in the 12. verse, I <hi>would they were even cut off which trouble you,</hi> this the Apostle speaks concerning those that troubled the Church with their Errours: <hi>Paul</hi> sure speaks not now the lan<g ref="char:EOLhyphen"/>guage of a Persecutor, yea he did at the same time suffer persecuti<g ref="char:EOLhyphen"/>on for the truth, as you may see in the verse before. And that Schism is a work of the flesh, see 1 <hi>Cor.</hi> 3.3, 4. <hi>for yee are yet carnall; for where<g ref="char:EOLhyphen"/>as there is among you envying and strise and Divisions, are yee not carnall, and walk as men? for while one saith,</hi> I <hi>am of</hi> Paul, <hi>and another,</hi> I <hi>am of</hi> Apollo, <hi>Are yee not carnall?</hi> and that Schismes do not advance the peaceable worship of the Lord, but hinder it, is further clear, 1 <hi>Cor.</hi> 11.17, 18, 19. <hi>Now in this that</hi> I <hi>declare unto you,</hi> I <hi>praise you not, that you come together, not for the better, but for the worse,</hi> for first of all <hi>when yee come together in the Church, I hear that there be Divisi<g ref="char:EOLhyphen"/>ons</hi> (or Schismes) <hi>among you, and I partly beleeve it, for there must</hi>
+                  <pb n="6" facs="tcp:117260:4"/>be also Heresies among you; our Apostle therefore labours much in that Epistle to root out Schisme from the Church of <hi>Corinth,</hi> and does very earnestly perswade them against it, as you may see in <hi>chap.</hi> 1. <hi>vers.</hi> 10, 11. <hi>Now I beseech you Brethren by the name of our Lord Je<g ref="char:EOLhyphen"/>sus Christ, that yee all speake the same thing, and that there be no Divi<g ref="char:EOLhyphen"/>sions</hi> (or Schismes) <hi>among you, but that yet be perfectly joyned toge<g ref="char:EOLhyphen"/>ther in the same minde, and in the same judgement, for it hath beene declared to me of you, my Brethren, by them which are of</hi> Cloe, <hi>that there are contentions among you;</hi> See here, Schisme is a make-bate, and not fit to live in a Christian Common-wealth; if you please I will turne to some other places for the further proofe of these things.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>You may spare that labour, this is sufficient; and therefore</hi> I <hi>shall go on to another particular. My Author sayes that the Covenant contains a contradiction; for in one place it promises</hi> to preserve the Kings Person and Authority, <hi>and in another place it promises to endea<g ref="char:EOLhyphen"/>vour that all such as be Incendiaries be brought to punishment: here is the Covenant, you may see the Objection is raysed by comparing the third and fourth Article together.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>I see how the words lie, and this puts me in mind of a pas<g ref="char:EOLhyphen"/>sage which I read lately, <hi>exceptio firmat regulam,</hi> the laying down of just limitations to a generall rule, makes that rule so qualified not liable to just exception; therefore it being granted that the third Article of the Covenant excepts the Kings Person and Autho<g ref="char:EOLhyphen"/>rity, this will clear the extent of the fourth article, and so reconcile the pretended contradiction; if any will be captious at the word <hi>All,</hi> and say that an exception will imply a contradiction; there is a pas<g ref="char:EOLhyphen"/>sage in sacred writ, which I have often thought upon, that may check their cavilling nicenesse; and this it is 1 <hi>Cor.</hi> 15.27. <hi>for he hath put all things under his feet,</hi> but when he saith <hi>all things are put under him,</hi> it is manifest that he is excepted which did put all things under him.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>am satisfied in this, but there are other objections made against the forementioned clauses of the Covenant severally, who is to be reputed a Malignant, and what it is that makes a man to be so? this is said to be a mystery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>the Covenant is very plain in this point: for in that fourth Article you have the Malignant described, by those things wherein his malignity is express; as <hi>bindring the Reformation of Religion</hi>
+                  <pb n="7" facs="tcp:117260:4"/>dividing the King from his People, or one of his Kingdoms from another, or making any faction, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>This</hi> I <hi>see is very apparent. But the other chuse in the Cove<g ref="char:EOLhyphen"/>nant for preserving the Kings Person, is objected against with much ear<g ref="char:EOLhyphen"/>nestnesse, and Scripture produced to prove it unlawfull.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>As for the third article of the Covenant so sarreas it enga<g ref="char:EOLhyphen"/>ged the taker to preserve the Person of the late King, it is now no further obliging, because the matter of it is taken away by the Kings death, and those who have taken, and conscientiously kept that branch, may enjoy the Testimony of a good conscience; nor need such be troubled that they have taken it, and I am confident there can be no Scripture produced to prove the unlawfulnesse of it.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>What say you then to these texts which are alledged against it? Gen.</hi> 9.6. he that shedeth mans blood, by man shall his blood be shed. <hi>Num.</hi> 35.31. Ye shall take no satisfaction for the life of a martherer, which is guilty of death: but he shall surely be put to death, <hi>Deut.</hi> 19.13. thine eye shall not pitie him, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>Though I never heard that the King imbrued his hands in any mans blood: yet I shall not at all meddle with the case of the King in particular. But onely to these general Scriptures, I shall give you this general answer; that they are far from proving it un<g ref="char:EOLhyphen"/>lawful for a subject to endeavour to preserve the person of his King, for those texts speak not how a subject should proceed towards his Governour, in case of the Governours guilt, but only how a Go<g ref="char:EOLhyphen"/>vernour should proceed in punishing of Subjects according to their deserts: to clear this case, take a Scripture president. King <hi>Saul</hi> was guilty of the blood of many, yea sacred persons: for at his command <hi>Doeg</hi> the Edomite fell upon the <hi>Priests, and slew in one day above foure<g ref="char:EOLhyphen"/>score persons that wore a linnon Ephod;</hi> after this, when <hi>Saul</hi> was in the head of an Army, persuing righteous <hi>David;</hi> Providence puts an opportunity into <hi>Davids</hi> hand, that he might do with <hi>Saul</hi> as he saw good. What doth <hi>David</hi> do in this case? Doth he take away the life of bloody King <hi>Saul?</hi> No, but he preserves that Kings per<g ref="char:EOLhyphen"/>son, and will not permit others to smite him: and gives a very good argument for it, drawn from the place of the King; <hi>he was the Lords anointed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cov.</speaker>
+               <p>
+                  <hi>This</hi> I <hi>have heard largely urged by others.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>It has indeed been well handled by many; if therefore you have any thing farther that is objected against the <hi>Covenant,</hi> you may proceed.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:117260:5"/>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>This is one thing in generall, that whatsoever is not of faith is sin; &amp; that the community of the people did not take the</hi> Covenant <hi>in faith, because many of them took it doubtingly or ignorantly.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>It must be granted that many did so take the <hi>Covenant;</hi> and they have cause to be humbled for taking Gods name in vaine: yet this taking of the <hi>Covenant</hi> in a sinfull manner, doth not justifie the breaking of the <hi>Covenant,</hi> nor dispense with the obligation of the <hi>Covenant</hi> in point of conscience: the truth is, there was never any <hi>Covenant</hi> made since the fall of <hi>Adam,</hi> nor any oath taken by any man whatsoever, nor ever will or can be, without some failing in the manner, so long as sin remains in mans nature, and therefore if failing in the manner of taking an Oath or Covenant should make void the duty of keeping it; there should then no Oath or Cove<g ref="char:EOLhyphen"/>nant be binding to any man whatsoever; and what confusion would follow thereupon let any man judge.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>What say you then to that assertion, that Vowes unadvisedly made, are such as not only do not binde, but are necessarily to be broken.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>That saying is not to be admitted without its limitations. I would therefore in generall distinguish thus: when through un<g ref="char:EOLhyphen"/>advisednesse a vow is made to do a thing, which is contrary to a morall precept, then that vow is not binding, but when through un<g ref="char:EOLhyphen"/>advisednesse a vow is made to do a thing which is not contrary to a morall Precept, the unadvisednesse cannot make void the Vow. If I had the other part of the Bible here I would speak more fully to the point in hand; for in a case of conscience I love not to speak much without Book.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>Sir,</hi> I <hi>will help you to a Bible presently, if you will please to stay here, till</hi> I <hi>step to that Book-sellers shop, what sort would you have?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>Any will serve; but an 8<seg rend="sup">o</seg> I am most used to, and so can most readily turne to places in it.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>have sped: here is the Book, the Lord help us to a right un<g ref="char:EOLhyphen"/>derstanding of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>And by it.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>You mentioned even now a distinction about unadvised Vowes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>'Tis true, Sir, I said when a Vow through unadvisednesse is made contrary to a morall Precept, it is not obliging, but other<g ref="char:EOLhyphen"/>wise it is obliging notwithstanding the rashnesse or unadvisednesse, and this I shall now indeavour to cleare to you, and first, that when through unadvisednesse one vows to do a thing, which is contrary
+<pb n="9" facs="tcp:117260:5"/>to a morall command, that Vow is not obliging. There are especi<g ref="char:EOLhyphen"/>ally two case<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wherein this fals out. The one is, when the thing vowed is altogether unlawfull in its owne nature, such as may not be done by any person whatsoever, this was the case of the Jewes who vowed that they would neither eat nor drinke till they had killed <hi>Paul;</hi> This rash Vow being contrary to the morality of the sixt Commandement, was therefore not binding. The other case is, when the thing vowed is not in its own nature unlawfull, but may be unlawfull in respect of the relation that the Person stands in which vowes it; as suppose one under family-Authority vowes to keep a fast day in his closet, though the thing be commendable, if it were advisedly done; yet if the keeping of that Fast be disallowed by the family-governour; the vow for the keeping of it is not bind<g ref="char:EOLhyphen"/>ing, because it is contrary to the morality of the fist Commande<g ref="char:EOLhyphen"/>ment; for the confirmation of this case I shall turne to a place that is very full and cleer, <hi>Numb.</hi> 30.12, 13. <hi>but if her hush and hath ut<g ref="char:EOLhyphen"/>terly made them void on the day he heard them, then whatsoever proceed<g ref="char:EOLhyphen"/>eth out of her lips, concerning her vowes; or concerning the bond of her soule, shall not stand, her husband hath made them void, and the Lord shall forgive her. Every Vow and every binding Oath to afflict the soule, her husband may establish it, or her husband may make it void.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>would gladly see some proofe, for the other part of your distin<g ref="char:EOLhyphen"/>ction, for you said unadvised vows are obliging, if the thing vowed he not contrary to a morall Precept.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>You say right, I shall therefore now come to that, what think you of the Vow of <hi>Jephthah</hi> in <hi>Iudg.</hi> 11. was it not an unad<g ref="char:EOLhyphen"/>vised vow? it is cleare he repented his rashnesse, when he saw that by that meanes his family must be cut off: for by vertue of his Vow his only child must die a virgin; and yet for all that, though he would gladly have evaded that trouble, which brought him very low, yet he was sensible that his Vow was still binding; and there<g ref="char:EOLhyphen"/>fore sayes expresly to his daughter; <hi>I have opened my mouth unto the Lord and</hi> I <hi>cannot go back.</hi> His daughter was of the same judgement, and though the thoughts of dying a virgin were so sad to her, that she would bestow two moneths in the solemne bewailing of her vir<g ref="char:EOLhyphen"/>ginity; yet she never opens her mouth to disswade her father from keeping his unadvised Vow, yea she expressely consents to the keep<g ref="char:EOLhyphen"/>ing of it, and after two moneths pause, in which <hi>Iephthahs</hi> affecti<g ref="char:EOLhyphen"/>on would have readily laid hold of any faire way to have declined
+<pb n="10" facs="tcp:117260:6"/>the severity of his Vow, yet can he not satisfie himselfe to lay it a<g ref="char:EOLhyphen"/>side, and therefore it is said expresly, that he did with her according to his vow which he had vowed, and she knew no man, that is, she remained a virgin till the day of her death; for <hi>Iephthah</hi> had by his unadvised Vow, so devoted her to God, that he could not give any man a title to be her husband. Another instance which I would pro<g ref="char:EOLhyphen"/>pose to shew that Covenants and Oaths unadvisedly made, are not to be made void upon the bare account of unadvisednesse, is in that case in <hi>Iosh.</hi> 9. when the Hivites the inhabitants of <hi>Gibeon,</hi> wilily drew <hi>Ioshua</hi> into a Covenant of peace with them, this Covenant, though unadvisedly entred into, not without doubting and igno<g ref="char:EOLhyphen"/>rance; yet was it obliging. That this Covenant was entred into not withou<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bting, I suppose may be gathered from <hi>ver.</hi> 7. <hi>the men of</hi> I<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l <hi>said unto the Hivites, peradventure yee dwell among us, and how shall we make a League with you?</hi> that this Covenant was entred into with ignorance, is cleere; for they did not know, till three dayes after the Covenant, that the Gibeonites were of the Hivites, as you may see <hi>ver.</hi> 16. <hi>and it came to passe at the end of three dayes, after they had made a League with them, that they heard that they were their neighbours, and that they dwelt among them.</hi> And this considerati<g ref="char:EOLhyphen"/>on that the Gibeonites were of the Hivites, was very materiall to the case of the Covenant: for, by a positive Law of God, the Hi<g ref="char:EOLhyphen"/>vites by name were devoted to destruction; as you may read <hi>Deut.</hi> 20.16, 17. <hi>But of the cities of these People which the Lord thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth, but thou shalt utterly destroy them, namely the Hittites and the Amo<g ref="char:EOLhyphen"/>rites, the Canaanites and the Perizzites, the Hivites and the Jebusites, as the Lord thy God hath commanded thee.</hi> I conclude then, that this Covenant made with the Gibeonites was done unadvisedly; yea it is said expresly <hi>Iosh.</hi> 9.14. <hi>they asked not councell at the mouth of the Lord.</hi> Here you see the case of the Covenant with so much failing in the ta<g ref="char:EOLhyphen"/>king of it; yet it was binding, yea though the generality of the People were against the keeping of the Covenant: yet will not <hi>Ioshua</hi> and the Princes of the Congregation (who understood the case better then the rude multitude) permit the Covenant to be dispensed with, as you may see at large in the latter part of that chapter, mark these expressions in the 18, 19. and 20. verses, <hi>the children of</hi> Israel <hi>smote them not, because the Princes of the Congregation had sworne unto them by the Lord God of</hi> Israel, <hi>and all the Congregation mur<g ref="char:EOLhyphen"/>mured
+<pb n="11" facs="tcp:117260:6"/>against the Princes, and all the Princes said unto all the Congrega<g ref="char:EOLhyphen"/>tion, we have sworne unto them by the Lord God of</hi> Israel, <hi>now there<g ref="char:EOLhyphen"/>fore we may not touch them; this we will do to them, we will even let them live, least wrath be upon us, because of the oath which we sware un<g ref="char:EOLhyphen"/>to them.</hi> And its observable that afterwards when <hi>Saul</hi> brake this Covenant, the Israelites under-went three years famine for it, as you may read in 2 <hi>Sam.</hi> 21. and I have much feared of late; least the like judgement be brought upon this Kingdome for the like sin.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>We have indeed great cause to feare that judgement both for this and for our other sins.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>Have you any further objection?</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>Yes, this: <hi>what if any that hath taken the Covenant, finde he cannot keep it without dammage to himself?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>
+                  <hi>Psal.</hi> 15. answers this expressely; for there the Holy-Ghost tels us, <hi>that the man that shall dwell in Gods Holy-H<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll, must be one that doth not change though he sware to his owne hurt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>It is said; <hi>the Covenant is against publike safety, and there<g ref="char:EOLhyphen"/>fore may not be kept.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>How is the Covenant against publike safety? I had thought that the Covenant was set on foot to unite People for common safety.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>My Author sayes, <hi>that the Covenant occasioned a generall commotion, and set the People of the Land causlesly to destroy one another.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>The Covenant is not therefore unlawfull, because men take occasion of evill by it: for so men deale with the Gospel it selfe, in this sense Christ tels us <hi>that he came not to send peace, but a sword; and to set a man at variance, &amp;c.</hi> Matth. 10.34, 35. and as for the late commotions and destructions, they are rather to be imputed to the breaking of the Covenant, then to the keeping of it, the judge<g ref="char:EOLhyphen"/>ment of the sword is often threatned for breach of Covenant, as in <hi>Lev.</hi> 26.25. and <hi>Ier.</hi> 34. and <hi>Ezek.</hi> 17.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>There is one thing more which I would object out of the same Author that hath furnished me with the rest of my objections. His words are these.</hi> The wit of an enemy could not have devised a thing more pernicious and destructive to our publike Peace and safety then the Covenant: for it is not possible that ever this Common-wealth shall be setled; according to what the Parliament hath lately decla<g ref="char:EOLhyphen"/>red, and the Covenant duly observed, so incompatible is the one with the other. <hi>This passage you may see in the</hi> 7. page <hi>of his snare.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:117260:7"/>
+               <speaker>Inter.</speaker>
+               <p>what hath been declared I meddle not with, but of this I am sure, that when a Declaration and a Covenant are inconsistent, the Covenant must be preferred, as being more sacred; for a Decla<g ref="char:EOLhyphen"/>ration is but the language of a purpose, but a Covenant is the lan<g ref="char:EOLhyphen"/>guage of a promise.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>thank you for your Christian freedome, in expressing your self to me in these things concerning the Covenant, may</hi> I <hi>know your opinion concerning the late transactions here, since the beginning of</hi> December?</p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>Excuse me Sir, I must now leave you.</p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>
+                  <hi>Why Sir, what haste?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>No great haste, but there is a Scripture that I would faine learne the meaning of, and I would wish others also to study it; it is in <hi>Amos</hi> 5. <hi>therefore the prudent shall keep silence in that time, for it is an evill time.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cove.</speaker>
+               <p>I <hi>presume you will give me leave to guesse at your judgement.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Inter.</speaker>
+               <p>I cannot hinder you from thinking: but if you would fol<g ref="char:EOLhyphen"/>low my judgement, I would advise you to speak more to God a<g ref="char:EOLhyphen"/>bout these things, and lesse to men. And for your owne part since you have taken the Covenant, make conscience to keep it; And to helpe you herein I shall for a farewell commend one Scrip<g ref="char:EOLhyphen"/>ture to your daily meditation.</p>
+            </sp>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ECCLES. 5.4, 5, 6.</hi>
+                  </bibl>
+                  <p>When thou vowest a Vow to God, defer not to pay it, for he hath no pleasure in fooles: pay that which thou hast vow<g ref="char:EOLhyphen"/>ed, better is it that thou shouldst not vow, then that thou shouldst vow and not pay. Suffer not thy mouth to cause thy flesh to sin, neither say thou before the Angel that it was an errour: wherefore should God be angry at thy voice, and destroy the work of thine hands.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
